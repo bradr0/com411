@@ -1,5 +1,5 @@
 # Ask user to input a whole number
-print("Please input a whole number")
+print("Please enter a whole number.")
 number = int(input())
 
 # Print output to user
